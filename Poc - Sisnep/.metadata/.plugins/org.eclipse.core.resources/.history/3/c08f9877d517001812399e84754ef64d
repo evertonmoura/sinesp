@@ -1,0 +1,13 @@
+#---------------------------------------------------
+# PADRÃO PARA PROPERTIES
+#---------------------------------------------------
+# pacote.[nomeClasse/entidade].[campo/funcao].descricao
+#---------------------------------------------------
+# RELATÓRIOS GERENCIAIS
+#---------------------------------------------------
+# Principal
+sinesp.tittle=Consulta Veicular
+
+# Labels
+sinesp.consultar.placa=Placa:
+sinesp.consultar.label=Pesquisar

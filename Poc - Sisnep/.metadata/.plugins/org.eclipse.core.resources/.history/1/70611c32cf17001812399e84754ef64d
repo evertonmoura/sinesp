@@ -1,0 +1,8 @@
+#---------------------------------------------------
+# PADRÃO PARA PROPERTIES
+#---------------------------------------------------
+# pacote.[nomeClasse/entidade].[campo/funcao].descricao
+#---------------------------------------------------
+# RELATÓRIOS GERENCIAIS
+#---------------------------------------------------
+sinesp.consultar.label=Pesquisar

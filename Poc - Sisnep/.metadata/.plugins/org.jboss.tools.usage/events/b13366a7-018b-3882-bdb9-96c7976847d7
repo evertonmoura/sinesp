@@ -1,0 +1,11 @@
+#Thu Feb 22 09:38:05 BRT 2018
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1519303085601
+c=0
+cmp=usage
+a=finishWizard
+cl=org.eclipse.datatools.enablement.oracle.internal.ui.NewOracleConnectionProfileWizard
+v=2.1.1
+s=0

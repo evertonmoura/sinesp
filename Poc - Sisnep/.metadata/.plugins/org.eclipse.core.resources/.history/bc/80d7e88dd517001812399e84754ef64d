@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:composite="http://java.sun.com/jsf/composite"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+<head>
+<title value=""></title>
+</head>
+<body>
+<!-- 	<f:loadBundle basename="sinesp.mensagens" var="msgs" />
+ -->	<h:form id="consulta">
+		<p:outputLabel value="#{msg['sinesp.consultar.placa']}" />
+		<p:inputText value="#{consultaMB.placa}" id="placa"
+			style="text-transform:uppercase" />
+		<p:commandButton action="#{consultaMB.consultar()}" value="Pesquisar"
+			id="pesquisar" update="saida" />
+		<p:commandButton action="#{consultaMB.limpar()}" value="Limpar"
+			id="limpar" update="@this" />
+	</h:form>
+
+	<h:outputText id="msgErro" value="#{consultaMB.retorno}"
+		rendered="#{consultaMB.erro}" name="erro" />
+	<h:form id="saida" rendered="#{consultaMB.retorno != null}">
+		<p:dataTable var="result" value="#{consultaMB.retornoConsulta}"
+			styleClass="order-table" headerClass="order-table-header"
+			rendered="#{consultaMB.retornoConsulta != null}">
+			<p:column headerText="header">
+				<f:facet name="header">Palca</f:facet>
+				<h:outputText value="#{result.plate}" name="palte" />
+			</p:column>
+
+			<p:column headerText="modelo">
+				<f:facet name="header">Modelo</f:facet>
+				<h:outputText value="#{result.model}" name="model" />
+			</p:column>
+
+			<p:column headerText="Linha">
+				<f:facet name="header">Linha</f:facet>
+				<h:outputText value="#{result.brand}" name="brand" />
+			</p:column>
+
+			<p:column headerText="Cor">
+				<f:facet name="header">Cor</f:facet>
+				<h:outputText value="#{result.color}" name="color" />
+			</p:column>
+
+			<p:column headerText="Ano">
+				<f:facet name="header">Ano</f:facet>
+				<h:outputText value="#{result.year}" name="year" />
+			</p:column>
+		</p:dataTable>
+	</h:form>
+</body>
+</html>

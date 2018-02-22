@@ -1,0 +1,1197 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-20 09:53:01.686
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-20 09:53:29.180
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-20 10:24:49.619
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-20 10:24:58.929
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-02-20 10:33:16.796
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-02-20 10:33:17.226
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-20 10:33:18.926
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-20 10:33:28.229
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:38:26.493
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:26.493
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:26.493
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:26.493
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:26.493
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:26.493
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:26.493
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:38:34.515
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:34.515
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:38:40.827
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:40.827
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:38:43.928
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:38:43.928
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:39:09.910
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:09.910
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:39:34.238
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.238
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.238
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.238
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.238
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.238
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.238
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.238
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.238
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.238
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.238
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:34.239
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:39:42.537
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:39:42.537
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:40:07.084
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:07.084
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:40:36.782
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.782
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.782
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.782
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.783
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.783
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.783
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.783
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.783
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.783
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.783
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:36.783
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:40:43.787
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:43.787
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:40:50.914
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:50.914
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:40:52.565
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.565
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.565
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.565
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.565
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.565
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.565
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.566
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.566
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.566
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.566
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:40:52.566
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:41:01.076
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:01.076
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:41:03.066
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:03.066
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:41:05.876
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:05.876
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:41:08.880
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:08.880
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:41:11.180
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.180
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.180
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.180
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.180
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.180
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.180
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.180
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.180
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.180
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.180
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:11.181
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:41:13.652
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:13.652
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:41:17.395
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:17.396
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:41:19.974
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:19.974
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:41:34.788
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:41:34.788
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:43:00.980
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:00.980
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:43:06.223
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.223
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.223
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.223
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.223
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.223
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.223
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.224
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.224
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.224
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.224
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:43:06.224
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-02-20 10:44:17.049
+!MESSAGE Safely halting deployment sisnep on server WildFly 10.0 before publish has failed.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298246 2018-02-20 10:44:51.133
+!MESSAGE Unable to delete module
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war. May be locked by another process.
+!SUBENTRY 2 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF. May be locked by another process.
+!SUBENTRY 3 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult. May be locked by another process.
+!SUBENTRY 7 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc. May be locked by another process.
+!SUBENTRY 8 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 9 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:44:51.133
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298246 2018-02-20 10:46:09.072
+!MESSAGE Unable to delete module
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war. May be locked by another process.
+!SUBENTRY 2 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF. May be locked by another process.
+!SUBENTRY 3 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult. May be locked by another process.
+!SUBENTRY 7 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc. May be locked by another process.
+!SUBENTRY 8 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 9 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:46:09.072
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-02-20 10:48:43.899
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-02-20 10:49:32.321
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-20 10:49:38.203
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-20 10:49:46.837
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:53:08.971
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:08.971
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:08.971
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:08.971
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 10:53:31.170
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:53:31.170
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-02-20 10:54:46.943
+!MESSAGE Safely halting deployment sisnep on server WildFly 10.0 before publish has failed.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298246 2018-02-20 10:54:59.373
+!MESSAGE Unable to delete module
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war. May be locked by another process.
+!SUBENTRY 2 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF. May be locked by another process.
+!SUBENTRY 3 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult. May be locked by another process.
+!SUBENTRY 7 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc. May be locked by another process.
+!SUBENTRY 8 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 9 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 7 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:54:59.374
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298246 2018-02-20 10:55:11.004
+!MESSAGE Unable to delete module
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.004
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war. May be locked by another process.
+!SUBENTRY 2 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.004
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF. May be locked by another process.
+!SUBENTRY 3 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult. May be locked by another process.
+!SUBENTRY 7 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc. May be locked by another process.
+!SUBENTRY 8 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 9 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 7 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 10:55:11.009
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-02-20 10:55:30.457
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-20 10:55:48.057
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-20 10:56:02.152
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 11:07:42.141
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 11:07:42.141
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 11:07:42.141
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-02-20 11:47:21.761
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-02-20 11:47:22.935
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-20 11:47:24.743
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-20 11:47:35.320
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-02-20 11:50:23.387
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-02-20 11:50:24.024
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-20 11:50:25.670
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-20 11:50:35.409
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-02-20 13:50:40.313
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-02-20 13:50:40.680
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-20 13:50:42.513
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-20 13:51:14.053
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-02-20 13:55:52.805
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-02-20 13:55:54.521
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-20 13:55:56.683
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-20 13:56:07.338
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-02-20 15:08:50.369
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-02-20 15:08:50.877
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-20 15:08:52.431
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-20 15:09:02.579
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-20 15:13:12.298
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-20 15:13:12.298
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-21 09:05:48.023
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:05:48.023
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:05:48.023
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:05:48.023
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-21 09:06:00.970
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:06:00.970
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:06:00.970
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:06:00.970
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:06:00.970
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-21 09:06:02.749
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:06:02.749
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:06:02.749
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:06:02.749
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:06:02.749
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-21 09:08:14.105
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:08:14.105
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:08:14.105
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:08:14.105
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:08:14.105
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-21 09:08:32.186
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:08:32.186
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:08:32.186
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:08:32.186
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:08:32.186
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-21 09:10:06.624
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:10:06.624
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:10:06.624
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:10:06.624
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:10:06.624
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-21 09:10:17.653
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:10:17.653
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:10:17.653
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:10:17.653
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:10:17.653
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-21 09:11:42.943
+!MESSAGE Incremental publish failed for module sisnep
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:11:42.943
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:11:42.943
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep\sisnep\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:11:42.943
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep/sisnep. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:11:42.943
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sisnep.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2018-02-21 09:12:48.944
+!MESSAGE Safely halting deployment sisnep on server WildFly 10.0 before publish has failed.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298246 2018-02-21 09:12:49.023
+!MESSAGE Unable to delete module
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war. May be locked by another process.
+!SUBENTRY 2 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF. May be locked by another process.
+!SUBENTRY 3 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult. May be locked by another process.
+!SUBENTRY 7 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc. May be locked by another process.
+!SUBENTRY 8 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 9 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 7 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:12:49.024
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298246 2018-02-21 09:21:08.035
+!MESSAGE Unable to delete module
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war. May be locked by another process.
+!SUBENTRY 2 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF. May be locked by another process.
+!SUBENTRY 3 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult. May be locked by another process.
+!SUBENTRY 7 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc. May be locked by another process.
+!SUBENTRY 8 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 9 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep. May be locked by another process.
+!SUBENTRY 4 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF. May be locked by another process.
+!SUBENTRY 5 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven. May be locked by another process.
+!SUBENTRY 6 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep. May be locked by another process.
+!SUBENTRY 7 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 09:21:08.035
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sisnep.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sisnep. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-02-21 09:21:11.265
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-02-21 09:26:13.330
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-21 09:26:30.314
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-21 09:26:46.671
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-21 10:15:59.385
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 10:15:59.385
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 10:15:59.385
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-21 10:15:59.385
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-02-21 17:09:21.281
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2018-02-21 17:09:22.750
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-22 10:12:59.813
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-22 10:13:11.967
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:21:17.021
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:21:17.021
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:21:17.021
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:21:17.022
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:26:21.241
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:26:21.242
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:26:21.242
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:26:21.242
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:26:54.008
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:26:54.008
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:26:54.008
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:26:54.008
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:26:57.911
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:26:57.911
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:26:57.911
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:26:57.911
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:27:01.575
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:27:01.575
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:27:01.575
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:27:01.575
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:27:05.017
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:27:05.017
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:27:05.017
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:27:05.017
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:27:28.456
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:27:28.456
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:27:28.456
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:27:28.456
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:28:29.440
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:28:29.440
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:28:29.440
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:28:29.440
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:28:53.660
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:28:53.660
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:28:53.660
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:28:53.660
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:29:24.581
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:29:24.581
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:29:24.581
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:29:24.581
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:29:29.215
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:29:29.215
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:29:42.499
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:29:42.499
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2018-02-22 10:30:38.648
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2018-02-22 10:30:40.438
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2018-02-22 10:30:43.959
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2018-02-22 10:30:57.003
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:33:42.106
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:33:42.106
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:33:42.106
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:34:05.464
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:34:05.464
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:34:05.464
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:34:05.464
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sinesp.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sinesp/sinesp. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:34:05.464
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sinesp.war/WEB-INF/classes/META-INF/maven/br.com.ntconsult.poc.sinesp. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:34:05.464
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sinesp.war/WEB-INF/classes/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:34:05.464
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\beans\ConsultaMB.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:34:05.464
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Request.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:34:05.464
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\Result.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:34:05.464
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\br\com\ntconsult\poc\sisnep\cliente\SinespClient.class. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:34:05.464
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\Teste.class. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:37:44.449
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:37:44.449
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:37:44.449
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:37:44.449
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:37:58.509
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:37:58.509
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:37:58.509
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:37:58.509
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:38:15.726
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:38:15.726
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:38:15.726
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:38:15.726
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2018-02-22 10:43:02.387
+!MESSAGE Incremental publish failed for module sinesp
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:43:02.387
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:43:02.387
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:43:02.387
+!MESSAGE Could not delete C:\wildfly-10.0.0\standalone\deployments\sinesp.war\WEB-INF\classes\META-INF\maven\br.com.ntconsult.poc.sinesp\sinesp\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2018-02-22 10:43:02.387
+!MESSAGE Could not delete C:/wildfly-10.0.0/standalone/deployments/sinesp.war/WEB-INF/classes/META-INF/maven. May be locked by another process.

@@ -1,0 +1,66 @@
+package br.com.ntconsult.poc.sisnep.beans;
+
+import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.annotation.PostConstruct;
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.RequestScoped;
+
+import br.com.ntconsult.poc.sisnep.cliente.Result;
+import br.com.ntconsult.poc.sisnep.cliente.SinespClient;
+
+@ManagedBean
+@RequestScoped
+public class ConsultaMB implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+	private String placa;
+	private String retorno;
+	private List<Result> retornoConsulta;
+
+	public ConsultaMB() {
+		super();
+	}
+
+	@PostConstruct
+	public void init() {
+		this.placa = "";
+		this.retorno = "";
+		retornoConsulta = new ArrayList<>();
+	}
+
+	public void consultar() {
+		if (null == placa || placa.isEmpty()) {
+			return;
+		}
+		SinespClient sinesp = new SinespClient();
+		Result result = new Result();
+		result = sinesp.search(placa);
+		retornoConsulta.add(result)
+		retorno = result.toJSON();
+	}
+
+	public void limpar() {
+		placa = "";
+		retorno = "";
+	}
+
+	public String getPlaca() {
+		return placa;
+	}
+
+	public void setPlaca(String placa) {
+		this.placa = placa;
+	}
+
+	public String getRetorno() {
+		return retorno;
+	}
+
+	public void setRetorno(String retorno) {
+		this.retorno = retorno;
+	}
+
+}
